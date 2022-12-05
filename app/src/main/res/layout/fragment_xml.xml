@@ -5,13 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/purple_700"
-    tools:context=".BasicFragment">
+    tools:context=".FragmentXml">
 
     <Button
-        android:id="@+id/btn_fragment"
+        android:id="@+id/btn_fragment1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/btn_fragment"
+        android:text="@string/btn_fragment1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
